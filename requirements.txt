@@ -1,0 +1,6 @@
+ipympl==0.5.7
+jupyterlab==1.2
+matplotlib==3.0.3
+memory-profiler==0.57
+numpy==1.16.2
+pandas==0.24.2
